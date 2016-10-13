@@ -1,10 +1,6 @@
 #!/usr/bin/python
-#title			:rolethedice.py
-#description	:This will simulate the rolling of two dice cubes.
-#date			:20110508
-#version		:0.2
-#notes			:
-#python_version	:2.6.6
+
+
 #==========================================================================
 
 import random
