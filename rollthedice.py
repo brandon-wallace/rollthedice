@@ -157,9 +157,11 @@ def rolling():
     ╚═══════╝""")
 
     if d1 == d2 and d1 != 1:
-            print("WHAT LUCK YOU HAVE!")
+        print("WHAT LUCK YOU HAVE!")
 
     if d1 == 1 and d2 == 1:
-            print("SNAKE EYES!! YOU LOSE!")
+        print("SNAKE EYES!! YOU LOSE!")
+
+    print(" ")
 
 rolling()
